@@ -4,21 +4,9 @@
 
 #  Student's Name: Trey Everson
 
-#  Student's UT EID: RHE 323
- 
-#  Partner's Name: Chase Kirkland
-
-#  Partner's UT EID: CFK 348
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 50205
-
 #  Date Created: 9/1/19
 
 #  Date Last Modified: 9/5/19
-
-# This assignment was done in pair-programming
 
 # Populate a 2-D list with numbers from 1 to n^2
 # This function must take as input an integer. You may assume that
