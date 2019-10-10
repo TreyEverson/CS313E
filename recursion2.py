@@ -4,12 +4,6 @@
 
 #  Student's Name: Trey Everson
 
-#  Student's UT EID: RHE 323
-
-#  Partner's Name: Andreea Craus
-
-#  Partner's UT EID: ACC 3675
-
 #  Course Name: CS 313E
 
 #  Unique Number: 50205
@@ -17,8 +11,6 @@
 #  Date Created: 10/5/19
 
 #  Date Last Modified: 10/7/19
-
-# This assignment was done in pair-programming
 
 
 # Given an array of ints, is it possible to choose a group of some 
