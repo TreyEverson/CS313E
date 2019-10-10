@@ -4,12 +4,6 @@
 
 #  Student's Name: Trey Everson
 
-#  Student's UT EID: RHE 323
-
-#  Partner's Name: Chase Kirkland
-
-#  Partner's UT EID: CFK 348
-
 #  Course Name: CS 313E
 
 #  Unique Number: 50205
@@ -18,7 +12,6 @@
 
 #  Date Last Modified: 9/27/19
 
-# This assignment was done in pair-programming
 
 import math
 
