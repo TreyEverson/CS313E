@@ -4,12 +4,6 @@
 
 #  Student's Name: Trey Everson
 
-#  Student's UT EID: RHE 323
-
-#  Partner's Name: Andreea Craus
-
-#  Partner's UT EID: ACC 3675
-
 #  Course Name: CS 313E
 
 #  Unique Number: 50205
@@ -17,8 +11,6 @@
 #  Date Created: 10/1/19
 
 #  Date Last Modified: 10/6/19
-
-# This assignment was done in pair-programming
 
 
 def bridge_time2(data, n):
